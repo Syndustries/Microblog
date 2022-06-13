@@ -1,5 +1,5 @@
 # Project Specific
-
+.flaskenv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
